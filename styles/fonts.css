@@ -1,0 +1,60 @@
+/*
+    Load fonts in this file using @font-face.
+
+    Fonts should go in: ~/assets/fonts/
+
+    NOTE That you need to use ~assets in CSS files, rather than the ~/assets in JS files.
+
+    Example:
+
+        @font-face {
+           font-family: 'My Font';
+           src: url('~assets/fonts/MyFont.woff2') format('woff2'),
+                url('~assets/fonts/MyFont.woff') format('woff');
+            font-style: normal;
+            font-weight: 400;
+        }
+
+    Font Weights:
+        100 - Thin
+        200 - Extra Light (Ultra Light)
+        300 - Light
+        400 - Normal
+        500 - Medium
+        600 - Semi Bold (Demi Bold)
+        700 - Bold
+        800 - Extra Bold (Ultra Bold)
+        900 - Black (Heavy)
+*/
+
+/* @font-face {
+    font-family: "Cambon-Regular";
+    src: url("~assets/fonts/Cambon-Regular.woff2") format("woff2"),
+        url("~assets/fonts/Cambon-Regular.woff") format("woff");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Cambon-Italic";
+    src: url("~assets/fonts/Cambon-Italic.woff2") format("woff2"),
+        url("~assets/fonts/Cambon-Italic.woff") format("woff");
+    font-style: italic;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Mabry-Regular";
+    src: url("~assets/fonts/mabry-regular-pro.woff2") format("woff2"),
+        url("~assets/fonts/mabry-regular-pro.woff") format("woff");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Mabry-Italic";
+    src: url("~assets/fonts/mabry-italic-pro.woff2") format("woff2"),
+        url("~assets/fonts/mabry-italic-pro.woff") format("woff");
+    font-style: italic;
+    font-weight: 400;
+} */
