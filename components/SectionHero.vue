@@ -22,8 +22,6 @@ export default {
 
 <style lang="scss" scoped>
 .section-hero {
-  position: relative;
-
   overflow: hidden;
 
   .image {
